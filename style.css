@@ -1,0 +1,9 @@
+@media (min-width : 1500px){
+    .navbar-brand{
+        display: none;
+    } }
+
+    @media (max-width : 530px){
+        .navbar-brand{
+            display: inline;
+      } }
